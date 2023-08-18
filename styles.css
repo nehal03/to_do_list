@@ -1,3 +1,23 @@
-.btn btn-primary{
-    size: 20px;
+.heading{
+    text-align: center;
+}
+label[for="name"] {
+    /* CSS properties for the targeted label */
+    color: red;
+    font-weight: bold;
+  }
+.container1{
+    margin-top: 20px;
+    
+}
+
+
+.container2{
+    margin: 20px;
+    
+}
+
+#name{
+    width: 500px; /* Adjust the width as desired */
+    height: 30px; /* Adjust the height as desired */
 }
